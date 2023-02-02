@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sean Spiggle</h1>
 <h3 align="center">A Front End Developer with years of AV Programming Experience.</h3>
 
-- 🔭 I’m currently working on **Productivity Manager**
+- 🔭 I’m currently working on **AV Programming Blog**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ASP.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Spiggles8](https://github.com/Spiggles8)
 
-- 📝 I regularly write articles on [avprogramming.tech](avprogramming.tech)
+- 📝 I regularly write articles on [av-programming-blog.seanspiggle.tech](https://av-programming-blog.seanspiggle.tech/)
 
 - 📫 How to reach me **spiggle8@gmail.com**
 

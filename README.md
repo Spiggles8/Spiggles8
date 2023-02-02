@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sean Spiggle</h1>
-<h3 align="center">A Front End Developer with years of AV Programming Experience.</h3>
+<h1 align="center">Hello 👋, I'm Sean Spiggle</h1>
+<h3 align="center">A Full-Stack Developer with 6 years of AV Programming Experience.</h3>
 
 - 🔭 I’m currently working on **AV Programming Blog**
 
